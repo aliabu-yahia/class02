@@ -4,6 +4,10 @@ body {
   }
 h2{
     background-color: rgb(166, 243, 166);
+    margin: 0;
+    width: 500px;
+    border: 2.5px double rosybrown;
+    padding-left: 15px;
 }
 h1{
     text-align: center;
@@ -11,4 +15,11 @@ h1{
 footer {
     background-color: gray;
     text-align: center;
+    padding: 10px;
+}
+ol li {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: darkgray;
+    padding-left: 20px;
+
 }
