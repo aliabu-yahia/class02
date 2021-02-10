@@ -9,8 +9,9 @@ function questions1To5() {
     let i = 0;
     alert('please answer in y/n or yes/no');
     for (i = 0; i < 5; i++) {
-        let ans. toUpperCase() = prompt(qes[i]);
-        switch (ans) {
+        let ans= prompt(qes[i]);
+        let anw = ans.upprrtoUpperCase();
+        switch (anw) {
             case 'Y':
             case 'YES':
                 // console.log(ans.toUpperCase);
