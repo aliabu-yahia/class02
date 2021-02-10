@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>class02</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <header>
+        <h1>
+            SHORT STORY ABOUT ME 
+        </h1>
+    </header> 
+    <main>
+        <h2>
+            Biography
+        </h2>
+        <p>
+            HI ervry one my nmae is ali abuyahia I live in Amman-Marak I love repire any broken thing, and learn how it work.
+        </p> 
+        <h2>
+            Education History
+        </h2> 
+        <ul>
+            <li>I study to 12 grade in Governmental school</li>
+            <li>I study mechanical engineering in Al Balqa univercity</li>
+        </ul>
+        <h2>
+            Job Experience
+        </h2>
+        <ul>
+            <li>I work for 6 month in garage for fix a car</li>
+            <li>I work for 6 month in company to fixing Home appliances</li>
+        </ul>
+        <h2>
+            My Goals
+        </h2>
+        <ul>
+            <li>
+                I want to complet my studing
+            </li>
+        </ul>
+        <h2>
+            This is a list of World's Top 10 Universities
+        </h2>
+        <ol>
+            <li> California Institute of Technology (Caltech)  </li>
+            <li>  Massachusetts Institute of Technology (MIT) </li>
+            <li> Harvard University  </li>
+            <li> University of Oxford  </li>
+            <li>  University of Cambridge </li>
+            <li>  University of Chicago </li>
+            <li>  Princeton University </li>
+            <li> Tsinghua University  </li>
+            <li> Yale University  </li>
+            <li> University of Edinburgh  </li>
+        </ol>
 
-You can use the [editor on GitHub](https://github.com/aliabu-yahia/class02/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <footer>
+        &copy;2021
 
-### Markdown
+    </footer>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <script src="../js/app.js"></script>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aliabu-yahia/class02/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
