@@ -11,8 +11,8 @@ function questions1To5() {
     for (i = 0; i < 5; i++) {
         let ans= prompt(qes[i]);
         switch (ans) {
-            case 'Y':
-            case 'YES':
+            case 'y':
+            case 'yes':
                 // console.log(ans.toUpperCase);
                 alert('Your answer is correct');
                 result++;
