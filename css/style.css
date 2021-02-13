@@ -23,3 +23,9 @@ ol li {
     padding-left: 20px;
 
 }
+.list>li{
+    display: inline;
+    background-color: darkkhaki;
+    padding: 13px;
+    margin: 82px;
+}
