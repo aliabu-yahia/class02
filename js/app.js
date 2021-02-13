@@ -1,4 +1,4 @@
-'use strict';/*
+'use strict';
 let result = 0;
 let userName = prompt('what is your name');
 // console.log('His name '+ name);
@@ -78,4 +78,4 @@ questions1To5();
 question6();
 question7();
 
-alert('Your result is ' + result + ' thank you.');*/
+alert('Your result is ' + result + ' thank you.');
